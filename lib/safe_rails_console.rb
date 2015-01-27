@@ -1,0 +1,2 @@
+module SafeRailsConsole
+end
